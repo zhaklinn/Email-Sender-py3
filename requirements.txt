@@ -1,0 +1,9 @@
+smtplib
+ssl
+email
+email.mime.text
+email.mime.multipart
+email.mime.base
+sys
+configparser
+argparse
